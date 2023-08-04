@@ -1,4 +1,4 @@
-import logo from '../assets/grizz.logo.png';
+import logo from '../assets/grizz-logo.png';
 // import MenuIcon from '../assets/MenuIcon';
 // import { Link } from 'react-router-dom';
 

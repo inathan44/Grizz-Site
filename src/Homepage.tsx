@@ -1,4 +1,4 @@
-import logo from './assets/grizz.logo.png';
+import logo from './assets/grizz-logo.png';
 
 const Homepage = () => {
   return (
